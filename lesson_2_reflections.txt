@@ -1,0 +1,5 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+Ans. Whenever we initialize a repository, we make a new git repository and we can make new commits and track history of our different versions of files.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans. Staging area is used to group together different files and then we can commit tha files together. 
