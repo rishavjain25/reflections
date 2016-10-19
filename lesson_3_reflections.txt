@@ -8,3 +8,6 @@ Q.Describe the differences between forks, clones, and branches. When would you u
 Ans. forks clone the repository from one github account to other. 
      clones copies repository from github to local git
      branches are different copies of the same repositories
+     
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans. The benefit is to collaborate between local master and remote master branches. It helps in merging the changes made by different      contributors.
