@@ -11,3 +11,6 @@ Ans. forks clone the repository from one github account to other.
      
 Q. What is the benefit of having a copy of the last known state of the remote stored locally?
 Ans. The benefit is to collaborate between local master and remote master branches. It helps in merging the changes made by different      contributors.
+
+Q.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans. I would have collaborated using Google Docs or OneDrive but it would be too difficlut. Github makes it easier to collaborate and we can also review the changes made by our partners before merging them in the master branch
